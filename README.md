@@ -16,7 +16,7 @@ Alguns dos resultados foram:
 - Alto desempenho;
 - Excelente capacidade de distinção.
 
-Os resultados visuais estão localizados no diretório [`results`](https://github.com/johnoliveira06/cnn-pneumonia-detection/results).
+Os resultados visuais estão localizados no diretório [`results`](https://github.com/johnoliveira06/cnn-pneumonia-detection/tree/main/results).
 
 ## Como executar o projeto
 
